@@ -38,7 +38,7 @@ Open to backend collaborations, code reviews, and real-world engineering discuss
 
 ![GitHub Streak](https://streak-stats.demolab.com?user=sudeisf&theme=tokyonight)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=sudeisf&layout=compact&theme=tokyonight)
+
 
 ---
 [![](https://visitcount.itsvg.in/api?id=sudeisf&icon=0&color=0)](https://visitcount.itsvg.in)
