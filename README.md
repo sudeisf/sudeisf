@@ -1,5 +1,30 @@
-# 💫 About Me:
-About Me<br>Backend-oriented Software Engineering student specializing in API-driven systems with Django, FastAPI, Laravel, and Node.js (Express). I build full-stack apps with Next.js/React, prioritizing clean data modeling, scalable architectures, and consumer-first APIs.<br><br>Tech Stack<br><br>Backend: Django/DRF (REST, auth, ORM), FastAPI (async APIs, OpenAPI), Laravel (MVC), Node.js/Express<br><br>Frontend: Next.js (SSR, API routes), React (hooks, state)<br><br>Databases: PostgreSQL (schemas, indexing)<br><br>Tools: Git/GitHub, Docker basics, Swagger docs<br><br>Mindset<br>Correctness first, bugs as learning signals, code that's self-explanatory.<br><br>Goals<br>Master scalable systems, async/event-driven design (Kafka), production auth. Open to backend collabs, code reviews, and real-world discussions.
+About Me
+
+Backend-oriented Software Engineering student focused on API-driven systems and scalable backend architecture.
+Experienced building services with Django, FastAPI, Laravel, and Node.js (Express) while also developing full-stack applications using Next.js and React.
+
+I focus on clean data modeling, maintainable service layers, and consumer-first API design.
+
+Tech Stack
+
+• Backend: Django / DRF (REST APIs, authentication, ORM), FastAPI (async APIs, OpenAPI), Laravel (MVC), Node.js / Express
+• Frontend: Next.js (SSR, API routes), React (hooks, state management)
+• Databases: PostgreSQL (schema design, indexing, relational modeling)
+• Tools: Git, GitHub, Docker (basics), Swagger / OpenAPI documentation
+
+Engineering Mindset
+
+• Correctness first
+• Treat bugs as learning signals
+• Write code that is self-explanatory and maintainable
+
+Goals
+
+• Master scalable backend systems
+• Learn async and event-driven architectures (Kafka, queues, workers)
+• Build production-grade authentication and secure APIs
+
+Open to backend collaborations, code reviews, and real-world engineering discussions.
 
 
 ## 🌐 Socials:
