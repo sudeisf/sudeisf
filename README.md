@@ -2,7 +2,7 @@
 
 ## About Me
 
-Backend-oriented Software Engineering student focused on API-driven systems and scalable backend architecture. Experienced building services with Django, FastAPI, Laravel, and Node.js (Express) while also developing full-stack applications using Next.js and React.
+Backend-oriented Software Engineer focused on API-driven systems and scalable backend architecture. Experienced building services with Django, FastAPI, Laravel, and Node.js (Express) while also developing full-stack applications using Next.js and React.
 
 I focus on clean data modeling, maintainable service layers, and consumer-first API design.
 
